@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-Validation-App/static/css/main.52b789c6.css",
+    "main.js": "/Login-Validation-App/static/js/main.4aa39d7b.js",
+    "index.html": "/Login-Validation-App/index.html",
+    "main.52b789c6.css.map": "/Login-Validation-App/static/css/main.52b789c6.css.map",
+    "main.4aa39d7b.js.map": "/Login-Validation-App/static/js/main.4aa39d7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b789c6.css",
+    "static/js/main.4aa39d7b.js"
+  ]
+}
